@@ -1,3 +1,4 @@
+bind(192.168.1.251);
 import { createBareServer } from "@tomphttp/bare-server-node";
 import http from "node:http";
 import { fileURLToPath } from 'node:url';
